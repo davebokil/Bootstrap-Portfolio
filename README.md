@@ -1,2 +1,3 @@
 # Basic-Portfolio
-Week 1 (Recommended) Assignment - That Portfolio Though...
+
+A portfolio template created using Twitter Bootstrap CSS Framework.
